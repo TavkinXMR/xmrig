@@ -1,5 +1,3 @@
 #!/bin/bash
 
-apt install libhwloc-dev
-apt install libuv1-dev
-apt install libssl-dev
+apt install libhwloc-dev libuv1-dev libssl-dev -y
